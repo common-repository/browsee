@@ -1,0 +1,16 @@
+#business-info-wrap {
+    margin: 2rem;
+}
+
+#browsee-form-area {
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 0.5rem 1rem;
+    margin-top: 1.5rem;
+}
+
+.browsee-header {
+    display: block;
+    width: 475px;
+    margin-bottom: 1rem;
+}
